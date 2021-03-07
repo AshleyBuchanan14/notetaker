@@ -1,1 +1,1 @@
-# notetaker
+Note Taker UI pending javascript
